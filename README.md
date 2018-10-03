@@ -1,3 +1,5 @@
+Debugged index.php as requested.
+
 ## eBASE Developer Application Follow-up
 
 ### Instructions
